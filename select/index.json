@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "社会のゴミカザマタカフミ",
+  "base_artist": "3markets[ ]",
+  "createdAt": "2025-12-14T14:18:53.687251Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "社会のゴミカザマタカフミ",
+      "artist": "3markets[ ]",
+      "has_synced": true,
+      "path": "select/01_社会のゴミカザマタカフミ_3markets[_].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "社会のゴミカザマタカフミ",
+      "artist": "3markets[ ] official",
+      "has_synced": false,
+      "path": "select/02_社会のゴミカザマタカフミ_3markets[_]_official.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "社会のゴミカザマタカフミ",
+      "artist": "3markets[ ]",
+      "has_synced": false,
+      "path": "select/pl_01_社会のゴミカザマタカフミ_3markets[_].txt"
+    }
+  ]
+}
